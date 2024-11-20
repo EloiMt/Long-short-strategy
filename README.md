@@ -38,7 +38,34 @@ The methodology builds upon widely recognized momentum and value investing princ
 
 ---
 
-### **Dataset**
+### **Results**
+
+#### **Portfolio Performance vs. Indices**
+The strategy was benchmarked against indices like the S&P 500, CAC 40, DAX, FTSE 100, Nikkei 225, and Hang Seng.
+
+#### **Findings**
+- **Long Portfolio:** High-performing stocks consistently delivered strong returns.
+- **Short Portfolio:** Low-performing stocks often underperformed, aligning with the strategy's objectives.
+
+---
+
+### **References**
+- **Academic Foundations:**
+  - Jegadeesh, N., & Titman, S. (1993). *Returns to Buying Winners and Selling Losers: Implications for Stock Market Efficiency.* Journal of Finance.
+- **Market Data:** Obtained through **Yahoo Finance**.
+
+---
+
+### **License**
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+---
+
+### **Contact**
+For any questions or feedback, feel free to contact:
+- **Email:** your_email@domain.com
+- **GitHub Profile:** [Your GitHub Profile](https://github.com/your_username)
+
 The data used in this project is included in `DATA.xlsx` and consists of:
 - **Date:** Monthly observations.
 - **Stock Metrics:** Returns, Price-to-Book ratios, and other fundamental data.
