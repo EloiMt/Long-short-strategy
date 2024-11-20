@@ -38,6 +38,13 @@ The methodology builds upon widely recognized momentum and value investing princ
 
 ---
 
+### **Dataset**
+The data used in this project is included in `DATA.xlsx` and consists of:
+- **Date:** Monthly observations.
+- **Stock Metrics:** Returns, Price-to-Book ratios, and other fundamental data.
+
+---
+
 ### **Results**
 
 #### **Portfolio Performance vs. Indices**
@@ -63,12 +70,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ### **Contact**
 For any questions or feedback, feel free to contact:
-- **Email:** your_email@domain.com
-- **GitHub Profile:** [Your GitHub Profile](https://github.com/your_username)
-
-The data used in this project is included in `DATA.xlsx` and consists of:
-- **Date:** Monthly observations.
-- **Stock Metrics:** Returns, Price-to-Book ratios, and other fundamental data.
-
----
-
+- **Email:** eloi.martin@edu.devinci.fr
+- **GitHub Profile:** [EloiMt](https://github.com/EloiMt)
